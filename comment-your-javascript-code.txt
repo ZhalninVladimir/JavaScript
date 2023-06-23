@@ -1,3 +1,5 @@
 // My in-line comment
 /* My multy-line
 comment*/
+// My second multy-line
+comment//
